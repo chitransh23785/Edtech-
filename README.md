@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://tutors.dev">
     <img src="./static/tutors-light.png"
@@ -168,3 +169,6 @@ Every time you open a PR that is accepted, you will be assigned holobytes. Colle
 ### License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+=======
+# Edtech-
+>>>>>>> c3b2b0e956076654e0c6a3057fa59684641bceaf
